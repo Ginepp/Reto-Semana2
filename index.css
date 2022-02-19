@@ -20,3 +20,13 @@ header {
     background-position: center;
     background-size: cover;
 }
+
+/* Navegacion*/
+nav {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: right;
+}
