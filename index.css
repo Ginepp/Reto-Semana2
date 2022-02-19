@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style:none;
+    box-sizing: border-box;
+}
+
+/*Estilos principal*/
+
+body {
+    font-family:'Courier New', Courier, monospace
+}
+
+header {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(120deg, rgba(94, 174, 211, 0.699) 0%, rgba(95, 39, 46, 0.692) 100%), url(./img/gatx-fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
